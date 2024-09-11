@@ -54,7 +54,7 @@
     "vscode-languageserver-protocol": "^3.17.3",
     "wasm-pack": "^0.12.1",
     "web-vitals": "^3.5.0",
-    "ws": "^8.13.0",
+    "ws": "^8.17.1",
     "xstate": "^4.38.2",
     "zustand": "^4.4.5"
   },
@@ -123,7 +123,7 @@
     "prettier": "^2.8.0",
     "setimmediate": "^1.0.5",
     "tailwindcss": "^3.2.4",
-    "vite": "^4.5.0",
+    "vite": "^4.5.3",
     "vite-plugin-eslint": "^1.8.1",
     "vite-tsconfig-paths": "^4.2.1",
     "yarn": "^1.22.19",
